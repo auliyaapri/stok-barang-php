@@ -2,7 +2,7 @@
 - Berisikan tentang pengelolaan barang yang sederhana.💯
 - Tampilan simple dan gampang digunakan☕
 
-## Watch Demo
+## 📺 Watch Demo
 
 https://www.youtube.com/watch?v=GyCali6EY48
 
