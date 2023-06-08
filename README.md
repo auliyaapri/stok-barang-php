@@ -3,11 +3,11 @@
 - Tampilan simple dan gampang digunakan☕
 - Menggunakan Native PHP
 
-## 📺 Watch Our Presentation
+## 📺 Watch Demo
 https://www.youtube.com/watch?v=GyCali6EY48
 
 ## 🚀 Tech Stack Used
-- HTML, CSS , JAVASCRIPT🌐
+- HTML, CSS , JAVASCRIPT, BOOTSTRAP🌐
 - PHP
 
 
