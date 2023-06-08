@@ -3,8 +3,7 @@
 - Tampilan simple dan gampang digunakan☕
 - Menggunakan Native PHP
 
-## 📺 Watch Demo
-
+## 📺 Watch Our Presentation
 https://www.youtube.com/watch?v=GyCali6EY48
 
 ## 🚀 Tech Stack Used
