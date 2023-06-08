@@ -1,6 +1,7 @@
 # Aplikasi Stock Barang✨
 - Berisikan tentang pengelolaan barang yang sederhana.💯
 - Tampilan simple dan gampang digunakan☕
+- Menggunakan Native PHP
 
 ## 📺 Watch Demo
 
