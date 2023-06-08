@@ -7,7 +7,7 @@
 https://www.youtube.com/watch?v=GyCali6EY48
 
 ## 🚀 Tech Stack Used
-- HTML, CSS , BOOTSTRAP🌐
+- HTML, CSS , JAVASCRIPT🌐
 - PHP
 
 
